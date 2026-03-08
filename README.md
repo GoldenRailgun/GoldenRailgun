@@ -14,7 +14,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khush-patel-mclaren)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/GoldenRailgun)
-![Location](https://img.shields.io/badge/Brampton,_ON-Canada-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Open_to_Internships-brightgreen?style=for-the-badge)
 
 </div>
