@@ -29,7 +29,6 @@ khush = {
     "building"  : "Newsify — sentiment-aware news platform (AI + Spring Boot + iOS)",
     "experience": "Technology Analyst @ Region of Peel (PHIPA-compliant healthcare IT)",
     "seeking"   : "Internship opportunities in AI/ML, Data Engineering, or Software Dev",
-    "location"  : "Brampton, ON · Hybrid preferred",
 }
 ```
 
@@ -95,7 +94,7 @@ Model Pipeline
 ──────────────
 Raw News Article
       ↓
-RoBERTa Tokenizer
+Model Tokenizer
       ↓
 Fine-tuned Classifier
       ↓
