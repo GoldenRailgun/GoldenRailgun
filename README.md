@@ -26,7 +26,7 @@
 khush = {
     "role"      : "Software Development & Network Engineering Co-op @ Sheridan College",
     "focus"     : ["AI/ML", "NLP", "iOS Development", "Backend Engineering"],
-    "building"  : "Newsify — sentiment-aware news platform (AI + Spring Boot + iOS)",
+    "building"  : "VibeNewZ — sentiment-aware news platform (AI + Spring Boot + iOS)",
     "experience": "Technology Analyst @ Region of Peel (PHIPA-compliant healthcare IT)",
     "seeking"   : "Internship opportunities in AI/ML, Data Engineering, or Software Dev",
 }
@@ -75,7 +75,7 @@ khush = {
 <tr>
 <td width="60%">
 
-### 🧠 Newsify
+### 🧠 VibeNewZ
 **Co-Founder · AI/Cloud Lead**
 
 A mental health-focused news app that replaces engagement-driven algorithms with a **user-controlled sentiment experience**. Built with a fine-tuned **RoBERTa NLP classifier**, **Spring Boot** backend, and native **iOS** client.
@@ -154,5 +154,5 @@ Feel free to reach out on [LinkedIn](https://linkedin.com/in/khush-patel-mclaren
 ---
 
 <div align="center">
-<sub>⚡ Currently in Sprint 2 of Newsify · Brampton, ON · Sheridan College 2025</sub>
+<sub>⚡ Currently in Sprint 2 of VibeNewZ · Brampton, ON · Sheridan College 2025</sub>
 </div>
