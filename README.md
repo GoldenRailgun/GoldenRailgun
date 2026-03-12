@@ -10,7 +10,7 @@
 ```
 
 ### Software Developer · AI/ML · iOS · Backend
-#### Co-op Student @ Sheridan College · Co-Founder @ Newsify · Open to Internships
+#### Co-op Student @ Sheridan College · Co-Founder & AI/Cloud Lead @ VibeNewZ · Open to Internships
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khush-patel-mclaren)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/GoldenRailgun)
